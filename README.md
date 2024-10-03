@@ -5,10 +5,10 @@ pop dup exch clear index copy count
 ```
 
 exch: Exchanges the top two elements of the stack.<br>
-dup: Duplicates the top element of the stack.
-clear: Clears the stack.
-count: Pushes the current size of the stack as a string onto the stack.
-index: Retrieves the element at a specified index and pushes it to the top of the stack.
+dup: Duplicates the top element of the stack.<br>
+clear: Clears the stack.<br>
+count: Pushes the current size of the stack as a string onto the stack.<br>
+index: Retrieves the element at a specified index and pushes it to the top of the stack.<br>
 
 <h1>Sample Command</h1>
 ```
