@@ -4,7 +4,7 @@ This program contains commands such as
 pop dup exch clear index copy count
 ```
 
-exch: Exchanges the top two elements of the stack.
+exch: Exchanges the top two elements of the stack.<br>
 dup: Duplicates the top element of the stack.
 clear: Clears the stack.
 count: Pushes the current size of the stack as a string onto the stack.
