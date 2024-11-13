@@ -1,9 +1,10 @@
 # PostScript-Stack
 This program contains commands such as
 ```
-pop dup exch clear index copy count
+pop exch dup clear count index copy
 ```
 
+pop: Pops the element at the top of the stack.<br>
 exch: Exchanges the top two elements of the stack.<br>
 dup: Duplicates the top element of the stack.<br>
 clear: Clears the stack.<br>
